@@ -21,6 +21,6 @@ export default {
 		LANG_DETECTION: true,
 		VIDEO_QUALITY_LABEL_DISABLED: true,
 		CONNECTION_INDICATOR_DISABLED: true,
-		TOOLBAR_BUTTONS: ['microphone', 'camera','fullscreen', 'tileview', 'fullscreen', 'hangup']
+		TOOLBAR_BUTTONS: ['microphone', 'camera','fullscreen', 'tileview', 'fullscreen']
 	},
 };
