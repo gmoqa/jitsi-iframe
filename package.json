@@ -12,6 +12,7 @@
   "dependencies": {
     "@mycure/vue-jitsi-meet": "^0.0.7",
     "buefy": "^0.9.7",
+    "connect-history-api-fallback": "^1.6.0",
     "core-js": "^3.6.5",
     "express": "^4.17.1",
     "serve-static": "^1.14.1",
